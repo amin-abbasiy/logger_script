@@ -1,0 +1,12 @@
+example_id                                        | status | run_time        |
+------------------------------------------------- | ------ | --------------- |
+./spec/logger_script/logger_script_spec.rb[1:1:1] | passed | 0.00168 seconds |
+./spec/logger_script/logger_script_spec.rb[1:1:2] | passed | 0.00178 seconds |
+./spec/logger_script/logger_script_spec.rb[1:1:3] | passed | 0.00248 seconds |
+./spec/logger_script/logger_script_spec.rb[1:1:4] | passed | 0.00165 seconds |
+./spec/logger_script/logger_script_spec.rb[1:2:1] | passed | 0.00148 seconds |
+./spec/logger_script/logger_script_spec.rb[1:2:2] | passed | 0.00121 seconds |
+./spec/logger_script/logger_script_spec.rb[1:2:3] | passed | 0.0001 seconds  |
+./spec/logger_script/logger_script_spec.rb[1:2:4] | passed | 0.00196 seconds |
+./spec/logger_script/logger_script_spec.rb[1:2:5] | passed | 0.0001 seconds  |
+./spec/logger_script/logger_script_spec.rb[1:2:6] | passed | 0.0001 seconds  |

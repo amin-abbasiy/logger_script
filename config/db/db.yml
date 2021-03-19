@@ -1,0 +1,5 @@
+user: 'postgres'
+password: 'postgres'
+port: '5432'
+database: 'script_logger'
+host: 'localhost'

@@ -1,0 +1,11 @@
+#!/usr/bin/env ruby
+require_relative '../config/db/db_connection'
+require_relative '../lib/db_handler'
+require_relative '../lib/file_handler'
+require_relative '../lib/webserver_log'
+require 'factory_bot'
+require 'rspec'
+require_relative '../spec/factories/webserver_logs'
+Dir["../spec/factories/*.rb"].each {|file| require_relative file }
+require "irb"
+IRB.start(__FILE__)

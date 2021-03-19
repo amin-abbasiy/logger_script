@@ -1,0 +1,80 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/uamin/RubymineProjects/Ruby/logger_script/spec/logger_script/file_handler_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/home/uamin/RubymineProjects/Ruby/logger_script/spec/logger_script/logger_script_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          2,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          2,
+          null,
+          1,
+          2,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1616146502
+  }
+}
