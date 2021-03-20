@@ -5932,3 +5932,15 @@ I, [2021-03-19T12:57:51.132627 #303505]  INFO -- : (0.000729s) INSERT INTO "webs
 I, [2021-03-19T12:57:51.133496 #303505]  INFO -- : (0.000665s) INSERT INTO "webserver_logs" ("url", "ip") VALUES ('/home', '200.017.277.774') RETURNING "id"
 I, [2021-03-19T12:57:51.134425 #303505]  INFO -- : (0.000720s) INSERT INTO "webserver_logs" ("url", "ip") VALUES ('/about/2', '200.017.277.774') RETURNING "id"
 I, [2021-03-19T12:57:51.135326 #303505]  INFO -- : (0.000679s) INSERT INTO "webserver_logs" ("url", "ip") VALUES ('/about', '543.910.244.929') RETURNING "id"
+I, [2021-03-20T12:04:08.298616 #6700]  INFO -- : (0.001112s) SET standard_conforming_strings = ON
+I, [2021-03-20T12:04:08.298959 #6700]  INFO -- : (0.000158s) SET client_min_messages = 'WARNING'
+I, [2021-03-20T12:04:08.299132 #6700]  INFO -- : (0.000145s) SET DateStyle = 'ISO'
+I, [2021-03-20T12:05:01.515455 #7233]  INFO -- : (0.000151s) SET standard_conforming_strings = ON
+I, [2021-03-20T12:05:01.515704 #7233]  INFO -- : (0.000154s) SET client_min_messages = 'WARNING'
+I, [2021-03-20T12:05:01.515902 #7233]  INFO -- : (0.000140s) SET DateStyle = 'ISO'
+I, [2021-03-20T12:05:47.577640 #7972]  INFO -- : (0.000167s) SET standard_conforming_strings = ON
+I, [2021-03-20T12:05:47.577805 #7972]  INFO -- : (0.000111s) SET client_min_messages = 'WARNING'
+I, [2021-03-20T12:05:47.577969 #7972]  INFO -- : (0.000136s) SET DateStyle = 'ISO'
+I, [2021-03-20T12:06:04.441224 #8691]  INFO -- : (0.000160s) SET standard_conforming_strings = ON
+I, [2021-03-20T12:06:04.441457 #8691]  INFO -- : (0.000160s) SET client_min_messages = 'WARNING'
+I, [2021-03-20T12:06:04.441658 #8691]  INFO -- : (0.000147s) SET DateStyle = 'ISO'

@@ -40,6 +40,28 @@ To Run console and create work with orm:
 
     $ bin/console
 
+Result:
+
+    #######################-Output For Result-##########################
+	| URL |                       | Views |                            $
+	/about/2                      90 Visits                            #
+	/contact                      89 Visits                            #
+	/index                        82 Visits                            #
+	/about                        81 Visits                            #
+	/help_page/1                  80 Visits                            #
+	/home                         78 Visits                            #
+	##############################-END-#################################
+	#######################-Output For Uniq result-######################
+	| URL |                       | Views |                            $
+	/index                        23 Visits                            #
+	/home                         23 Visits                            #
+	/contact                      23 Visits                            #
+	/help_page/1                  23 Visits                            #
+	/about                        22 Visits                            #
+	/about/2                      22 Visits                            #
+	##############################-END-#################################
+
+
 Example:
 
       WebserverLog.all #=> for all data from db

@@ -18,7 +18,7 @@ class LoggerScript
   def log_parser
     @data = Object.const_get(@klass.capitalize + 'Handler').new(@log_file).output
     @data.each do |k, v|
-      puts "#######################-Result For #{k.to_s.tr('_', ' ').capitalize}-######################".ljust(68, '#')
+      puts "#######################-Output For #{k.to_s.tr('_', ' ').capitalize}-######################".ljust(68, '#')
       puts '| URL |'.ljust(30, ' ') + '| Views |'.ljust(37, ' ') + '$'
       "#{k} ------- #{v.each { |k, v| puts k.to_s.ljust(30, ' ') + "#{v} Visits".ljust(37, ' ') + '#' }} "
       puts '##############################-END-#################################'
