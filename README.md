@@ -36,10 +36,6 @@ For Insert in Database:
 
     $ bin/run filename.log db
 
-To Run console and create work with orm:
-
-    $ bin/console
-
 Result:
 
     #######################-Output For Result-##########################
@@ -62,6 +58,10 @@ Result:
 	##############################-END-#################################
 
 
+To Run console and create work with orm:
+
+    $ bin/console
+    
 Example:
 
       WebserverLog.all #=> for all data from db
